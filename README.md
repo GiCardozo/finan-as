@@ -31,7 +31,7 @@ Clone o repositório usando o seguinte comando:
 
 ```bash
 
-git clone https://github.com/GiCardozo/finan-as.git
+git clone https://github.com/GiCardozo/finans.git
 
 ```
 ## Passo 2: Abrir o arquivo no navegador
